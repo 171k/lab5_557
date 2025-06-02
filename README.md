@@ -13,3 +13,6 @@ Note: All of these are unsanitized version of the file.
 
 **user.detail.php**
 1. Removed "root" in password for database connectivity.
+
+
+Contact me for enquiries
