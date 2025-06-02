@@ -15,7 +15,9 @@ Note: All of these are unsanitized version of the file.
 1. Removed "root" in password for database connectivity.
 
 Last but not least, use this injection on username if the one in the instruction is not working:
+
 **' OR '1'='1' --**
+
 you can left the password empty
 
 
