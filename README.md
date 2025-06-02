@@ -1,2 +1,10 @@
 # lab5_557
-This is the correction i made to make the files run properly
+These are the corrections i made to make the files run properly.
+Feel free to download the files provided.
+
+**login.php**
+1. Removed "root" in password to ensure database connectivity without password. This is much more convenient and does not affect the database at all.
+
+**login_secure.php**
+1. Removed "root" in password for database connectivity.
+2. Original defined "$mysql" instead of "$conn" for database connection thus causing minor issue. Fixed it by changing variable name. 
