@@ -14,6 +14,8 @@ Note: All of these are unsanitized version of the file.
 **user.detail.php**
 1. Removed "root" in password for database connectivity.
 
+
+
 Last but not least, use this injection on username if the one in the instruction is not working:
 
 **' OR '1'='1' --**
