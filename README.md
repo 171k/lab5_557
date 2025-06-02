@@ -15,4 +15,6 @@ Note: All of these are unsanitized version of the file.
 1. Removed "root" in password for database connectivity.
 
 
-Contact me for enquiries or correction. Happy hacking 🦆
+Contact me for enquiries or correction
+also, please star my repo hahahah
+Happy hacking! 🦆
